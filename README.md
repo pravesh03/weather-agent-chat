@@ -76,17 +76,6 @@ Test the application with these scenarios:
 3. **Multiple Messages**: Send several weather queries
 4. **Edge Cases**: Very long messages, empty messages, special characters
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Push code to GitHub
-2. Connect repository to Vercel
-3. Deploy automatically
-
-### Other Platforms
-- Netlify
-- Railway
-- Heroku
 
 ## 🔍 Troubleshooting
 
