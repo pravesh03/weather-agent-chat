@@ -273,7 +273,7 @@ export default function ChatWindow({ isDark = false }: ChatWindowProps) {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                 </svg>
                 <span className="text-xs sm:text-sm font-medium">
-                  Try: "What's the weather in London?"
+                  Try: What is the weather in London?
                 </span>
               </div>
             </div>
